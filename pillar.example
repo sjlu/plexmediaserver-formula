@@ -1,18 +1,8 @@
-couchpotato:
-  - user: www-data
-  - home_dir: /var/www/CouchPotatoServer
-  - data_dir: /var/www/.couchpotato
-  - api_key: 
-  - url_base: /couchpotato
-  - putio_enabled: 1
-  - putio_oauth_token: 
-  - sabnzbd_enabled: 1
-  - sabnzbd_key: 
-  - plex_enabled: 1
-  - pushover_enabled: 1
-  - pushover_user_key: 
-  - pushover_api_token: 
-  - newznab_enabled: True
-  - newznab_use: "0,1,1,0,0"
-  - newznab_host: "api.nzb.su,api.dognzb.cr,nzbs.org,https://api.nzbgeek.info,https://www.nzbfinder.ws"
-  - newznab_api_keys: ",,,,"
+plexmediaserver:
+   MachineIdentifier:
+   ProcessedMachineIdentifier: 
+   AnonymousMachineIdentifier: 
+   GracenoteUser: 
+   PlexOnlineMail: 
+   PlexOnlineUsername: 
+   PlexOnlineToken:
